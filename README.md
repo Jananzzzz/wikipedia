@@ -52,11 +52,12 @@ https://juejin.cn/post/7033227795996246052
 - human brain is not a database, but a model (dense or not)
 
 
-...
+# Links
 
-...
+A PhD Student’s Perspective on Research in NLP in the Era of Very Large Language Models:
+https://arxiv.org/pdf/2305.12544.pdf
 
-...
+
 
 
 
